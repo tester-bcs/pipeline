@@ -1,5 +1,7 @@
 # pipeline
 
+[![CI](https://github.com/tester-bcs/pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/tester-bcs/pipeline/actions)
+
 Движок бизнес-инкубатора: исполнимые бизнес-процессы с AI.
 Домен → обследование (1+6 / IDEF0) → план-граф → исполнение с контролем.
 
